@@ -1,5 +1,6 @@
+
 # 人工智能爱好者的自我介绍
-< img src="https://github.com/.../OIP.webp" width="200">
+< img src="1/20200429121701_EdAwE.jpg" width="200" >
 
 大家好，我是**人工智能爱好者**，我的身份是*AI学习者*。以下是我的自我介绍：
 
